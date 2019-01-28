@@ -75,9 +75,7 @@ public class MainActivity extends AppCompatActivity implements Observer<Integer>
 
     //    adapter1=new Adapter1(this);
       //  adapter2=new Adapter2(this);
-
         init();
-    //    setUpBar(true);
     }
 
 
